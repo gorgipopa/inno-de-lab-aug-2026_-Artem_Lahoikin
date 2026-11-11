@@ -1,0 +1,1 @@
+select * from customers where age > 25 and country = 'USA'
